@@ -4,7 +4,7 @@ Um gerenciador de tarefas simples feito no terminal, desenvolvido como meu prime
 Ideal para praticar listas, dicionários, arquivos JSON e menu interativo.
 
 ![Demonstração do Gerenciador de Tarefas](demo.png)  
-<img width="708" height="301" alt="imagem_2026-03-12_141540711" src="https://github.com/user-attachments/assets/7ae4f9ee-cda5-4067-95a4-d487b55f1b96" />
+<img width="708" height="301" alt="demo.png" src="https://github.com/user-attachments/assets/7ae4f9ee-cda5-4067-95a4-d487b55f1b96" />
 
 
 ## Funcionalidades
