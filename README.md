@@ -3,10 +3,11 @@
 Um gerenciador de tarefas simples feito no terminal, desenvolvido como meu primeiro projeto público em Python.  
 Ideal para praticar listas, dicionários, arquivos JSON e menu interativo.
 
-Demonstração do Gerenciador de Tarefas
-<p align="center">
+<div align="center">
   <img src="demo.png" alt="Demonstração do Gerenciador de Tarefas" width="80%">
-</p>
+  <br>
+  <em>Demonstração do Gerenciador de Tarefas em ação</em>
+</div>
 
 
 ## Funcionalidades
